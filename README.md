@@ -12,6 +12,7 @@ I found working out a plan for execution greatly helped when developing the code
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
+I would revise the recommendations section of this document. For revision, I would add more justification on why each recommendation was selected.
 
 ## How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
