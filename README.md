@@ -8,7 +8,7 @@ Evaluating different operating systems for their potential of powering the serve
 
 ## What about the process of working through a design document did you find helpful when developing the code?
 
-I found working out a plan for execution greatly helped when developing the code. It allowed me to consider all parts of the project, from client requirements to operating system capabilities and limitations, which gave me the insight of how every part of the code interacts with a multtide of clients.
+I found working out a plan for execution greatly helped when developing the code. It allowed me to consider all parts of the project, from client requirements to operating system capabilities and limitations, which gave me the insight of how every part of the code interacts with a multitude of clients.
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
