@@ -4,7 +4,7 @@ The client, **The Gaming Room**, is a game development studio who developed an A
 
 ## What did you do particularly well in developing this documentation?
 
-
+Evaluating different operating systems for their potential of powering the server, as well as analyzing the considerations for each system as the client, was performed particularly well. Each platform contains information about the benefits, detriments, and capabilities of being used as a server. Each platform also lists the considerations for development and deployment methods for the client version.
 
 ## What about the process of working through a design document did you find helpful when developing the code?
 
